@@ -25,4 +25,5 @@ To write custom SQL queries  to retrieve and validate visuals created in power b
 📌Framing sql queries using cte,group by .  
 
 
+### Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiN2EzZDdhYTQtMzVhNi00NTE3LTgxOTAtNGFmMjAwMmFhODdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
